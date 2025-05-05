@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "multi_bench",
+  "key": {
+    "b": "minecraft:stick",
+    "l": "lyk-adventime:inflamed_stone",
+    "o": "minecraft:fire_charge"
+  },
+  "pattern": [
+    " l ",
+    " l ",
+    "obo"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lyk-adventime:fire_sword"
+  }
+}

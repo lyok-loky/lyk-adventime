@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "multi_bench",
+  "key": {
+    "c": "minecraft:cobblestone",
+    "l": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    "lcl"
+  ],
+  "result": {
+    "count": 1,
+    "id": "lyk-adventime:inflamed_stone"
+  }
+}
