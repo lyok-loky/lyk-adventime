@@ -1,0 +1,37 @@
+/give Player620 lykadventime:something_item
+/give Player620 lykadventime:something_item 56
+/give Player620 lykadventime:fire_sword
+/give Player787 lykadventime:fire_sword
+/give @s lykadventime:fire_food
+/gamemode survival
+/effect give @s minecraft:hunger 4
+/effect give @s minecraft:hunger 4 3
+/effect give @s minecraft:hunger 4 20
+/effect give @s minecraft:hunger 15 20
+/effect give @s minecraft:hunger 1000 255
+/effect cle
+/effect clear
+/give @s lykadventime:fire_food 9
+/effect give Player750 minecraft:hunger
+/effect give Player750 minecraft:hunger 10 200
+/give @s lykadventime:fire_food 9
+/gamemode creative
+/give @s lyk-adventime:fire_food 9
+/give @s lyk-adventime:fire_swordire_food 9
+/give @s lyk-adventime:fire_sword
+/give @s lyk_adventime:fire_sword
+/give @s lyk_adventime:fire_food
+/give @s lyk-adventime:fire_food
+/give @s lyk-adventime:fire_sword
+/gamemode survival
+/gamemode creative
+/give @s lyk-adventime:fire_sword
+/summon minecraft:zombie
+/gamemode survival
+/gamemode creative
+/give @s lyk-adventime:inflamed_stone
+/give @s lyk-adventime:fire_food 8
+/give @s lyk-adventime:iced_sword
+/give @s lyk-adventime:fire_sword
+/give @s lyk-adventime:inflamed_stone
+/give @s lyk-adventime:iced_sword
